@@ -1,0 +1,44 @@
+:root {
+  --font-family:
+    ui-monospace, "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+}
+:root,
+:root[data-theme="dark"] {
+  --sidebar-header-bg: #303633;
+  --sidebar-header-hoverbg: #7ea2aa;
+  --sidebar-button-bg: #434544;
+  --sidebar-button-border-radius: 0.5em;
+
+  --app-shell-bg: #2b322f;
+  --app-shell-hoverbg: #86abb3;
+
+  --text-color: #f6f9f8;
+
+  --btn-bg: #242726;
+  --btn-hoverbg: #a6e9d4;
+  --btn-text-color: #303633;
+
+  --toggle-btn: #1f2321;
+  --toggle-thumb: #303633;
+  --toggle-icon: rgb(62, 60, 60);
+}
+
+:root[data-theme="light"] {
+  --sidebar-header-bg: #ffffff;
+  --sidebar-header-hoverbg: #899b9f;
+  --sidebar-button-bg: #efebeb;
+  --sidebar-button-border-radius: 0.5em;
+
+  --app-shell-bg: #d7e5df;
+  --app-shell-hoverbg: #879295;
+
+  --text-color: #010d09;
+
+  --btn-bg: #ac9595;
+  --btn-hoverbg: #c3cdca;
+  --btn-text-color: #575d5a;
+
+  --toggle-btn: #b9b3b3;
+  --toggle-thumb: #ffffff;
+  --toggle-icon: white;
+}

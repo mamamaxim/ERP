@@ -1,0 +1,167 @@
+[
+  {
+    "id": "ITM-001",
+    "sku": "P-1001",
+    "barcode": "7294567000013",
+    "name": "שוקולד חלב 100 גרם",
+    "category": "ממתקים",
+    "unit": "unit",
+    "default_supplier_id": "SUP-001",
+    "minimum_stock": 20,
+    "active": true
+  },
+  {
+    "id": "ITM-002",
+    "sku": "P-1002",
+    "barcode": "7294567000020",
+    "name": "חטיף בוטנים 45 גרם",
+    "category": "חטיפים",
+    "unit": "unit",
+    "default_supplier_id": "SUP-001",
+    "minimum_stock": 30,
+    "active": true
+  },
+  {
+    "id": "ITM-003",
+    "sku": "P-1003",
+    "barcode": "7294567000037",
+    "name": "עוגיות חמאה 200 גרם",
+    "category": "עוגיות",
+    "unit": "unit",
+    "default_supplier_id": "SUP-002",
+    "minimum_stock": 15,
+    "active": true
+  },
+  {
+    "id": "ITM-004",
+    "sku": "P-1004",
+    "barcode": "7294567000044",
+    "name": "משקה אנרגיה 250 מ״ל",
+    "category": "משקאות",
+    "unit": "unit",
+    "default_supplier_id": "SUP-003",
+    "minimum_stock": 25,
+    "active": true
+  },
+  {
+    "id": "ITM-005",
+    "sku": "P-1005",
+    "barcode": "7294567000051",
+    "name": "תה ירוק 20 שקיקים",
+    "category": "תה וקפה",
+    "unit": "unit",
+    "default_supplier_id": "SUP-004",
+    "minimum_stock": 10,
+    "active": true
+  },
+  {
+    "id": "ITM-006",
+    "sku": "P-1006",
+    "barcode": "7294567000068",
+    "name": "קפה קר 240 מ״ל",
+    "category": "משקאות",
+    "unit": "unit",
+    "default_supplier_id": "SUP-004",
+    "minimum_stock": 12,
+    "active": true
+  },
+  {
+    "id": "ITM-007",
+    "sku": "P-1007",
+    "barcode": "7294567000075",
+    "name": "פסטה איטלקית 500 גרם",
+    "category": "מזווה",
+    "unit": "unit",
+    "default_supplier_id": "SUP-002",
+    "minimum_stock": 20,
+    "active": true
+  },
+  {
+    "id": "ITM-008",
+    "sku": "P-1008",
+    "barcode": "7294567000082",
+    "name": "רוטב עגבניות 350 גרם",
+    "category": "מזווה",
+    "unit": "unit",
+    "default_supplier_id": "SUP-002",
+    "minimum_stock": 15,
+    "active": true
+  },
+  {
+    "id": "ITM-009",
+    "sku": "P-1009",
+    "barcode": "7294567000099",
+    "name": "מיץ מנגו 330 מ״ל",
+    "category": "משקאות",
+    "unit": "unit",
+    "default_supplier_id": "SUP-003",
+    "minimum_stock": 25,
+    "active": true
+  },
+  {
+    "id": "ITM-010",
+    "sku": "P-1010",
+    "barcode": "7294567000105",
+    "name": "סוכריות גומי 150 גרם",
+    "category": "ממתקים",
+    "unit": "unit",
+    "default_supplier_id": "SUP-001",
+    "minimum_stock": 15,
+    "active": true
+  },
+  {
+    "id": "ITM-011",
+    "sku": "P-1011",
+    "barcode": "7294567000112",
+    "name": "קרקרים מלוחים 200 גרם",
+    "category": "חטיפים",
+    "unit": "unit",
+    "default_supplier_id": "SUP-001",
+    "minimum_stock": 20,
+    "active": true
+  },
+  {
+    "id": "ITM-012",
+    "sku": "P-1012",
+    "barcode": "7294567000129",
+    "name": "מסטיק מנטה 10 יחידות",
+    "category": "ממתקים",
+    "unit": "unit",
+    "default_supplier_id": "SUP-001",
+    "minimum_stock": 20,
+    "active": true
+  },
+  {
+    "id": "ITM-013",
+    "sku": "P-1013",
+    "barcode": "7294567000136",
+    "name": "דגני בוקר 375 גרם",
+    "category": "ארוחת בוקר",
+    "unit": "unit",
+    "default_supplier_id": "SUP-002",
+    "minimum_stock": 12,
+    "active": true
+  },
+  {
+    "id": "ITM-014",
+    "sku": "P-1014",
+    "barcode": "7294567000143",
+    "name": "שוקולד מריר 70% 100 גרם",
+    "category": "ממתקים",
+    "unit": "unit",
+    "default_supplier_id": "SUP-001",
+    "minimum_stock": 15,
+    "active": true
+  },
+  {
+    "id": "ITM-015",
+    "sku": "P-1015",
+    "barcode": "7294567000150",
+    "name": "משקה פירות טרופיים 500 מ״ל",
+    "category": "משקאות",
+    "unit": "unit",
+    "default_supplier_id": "SUP-003",
+    "minimum_stock": 20,
+    "active": true
+  }
+]

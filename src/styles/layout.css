@@ -1,0 +1,20 @@
+html {
+  padding: 0;
+  height: 100vh;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.app-container {
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr);
+  grid-template-rows: 120px minmax(0, 1fr);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: var(--font-family);
+}

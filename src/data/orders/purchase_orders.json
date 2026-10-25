@@ -1,0 +1,97 @@
+[
+  {
+    "id": "PO-2001",
+    "supplier_id": "SUP-001",
+    "order_date": "2026-10-15",
+    "status": "ordered",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-001",
+        "ordered_quantity": 40,
+        "unit_cost": 5.1,
+        "received_quantity": 0
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-002",
+        "ordered_quantity": 60,
+        "unit_cost": 2.45,
+        "received_quantity": 0
+      },
+      {
+        "id": "LINE-03",
+        "item_id": "ITM-011",
+        "ordered_quantity": 50,
+        "unit_cost": 5.0,
+        "received_quantity": 0
+      }
+    ]
+  },
+  {
+    "id": "PO-2002",
+    "supplier_id": "SUP-003",
+    "order_date": "2026-10-14",
+    "status": "partially_received",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-004",
+        "ordered_quantity": 100,
+        "unit_cost": 4.2,
+        "received_quantity": 40
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-015",
+        "ordered_quantity": 60,
+        "unit_cost": 4.8,
+        "received_quantity": 0
+      }
+    ]
+  },
+  {
+    "id": "PO-2003",
+    "supplier_id": "SUP-002",
+    "order_date": "2026-10-16",
+    "status": "draft",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-007",
+        "ordered_quantity": 30,
+        "unit_cost": 5.8,
+        "received_quantity": 0
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-013",
+        "ordered_quantity": 20,
+        "unit_cost": 12.5,
+        "received_quantity": 0
+      }
+    ]
+  },
+  {
+    "id": "PO-2004",
+    "supplier_id": "SUP-004",
+    "order_date": "2026-10-12",
+    "status": "received",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-005",
+        "ordered_quantity": 20,
+        "unit_cost": 9.2,
+        "received_quantity": 20
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-006",
+        "ordered_quantity": 25,
+        "unit_cost": 6.1,
+        "received_quantity": 25
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "EMP-001",
+    "name": "מיכל לוי",
+    "role": "warehouse_manager",
+    "active": true
+  },
+  {
+    "id": "EMP-002",
+    "name": "אורי כהן",
+    "role": "picker",
+    "active": true
+  },
+  {
+    "id": "EMP-003",
+    "name": "דניאל פרץ",
+    "role": "picker",
+    "active": true
+  },
+  {
+    "id": "EMP-004",
+    "name": "נועה ישראלי",
+    "role": "picker",
+    "active": true
+  },
+  {
+    "id": "EMP-005",
+    "name": "רועי ברק",
+    "role": "receiving",
+    "active": true
+  },
+  {
+    "id": "EMP-006",
+    "name": "שירה מזרחי",
+    "role": "sales_manager",
+    "active": true
+  },
+  {
+    "id": "EMP-007",
+    "name": "יובל רז",
+    "role": "sales_agent",
+    "active": true
+  },
+  {
+    "id": "EMP-008",
+    "name": "טל אברהם",
+    "role": "sales_agent",
+    "active": true
+  }
+]

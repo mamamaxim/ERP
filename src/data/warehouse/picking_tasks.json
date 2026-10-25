@@ -1,0 +1,119 @@
+[
+  {
+    "id": "PICK-001",
+    "sales_order_id": "SO-1003",
+    "warehouse_id": "WH-001",
+    "assigned_employee_id": "EMP-002",
+    "status": "in_progress",
+    "lines": [
+      {
+        "id": "PICK-001-L1",
+        "order_line_id": "LINE-01",
+        "item_id": "ITM-003",
+        "requested_quantity": 4,
+        "picked_quantity": 2,
+        "status": "pending"
+      },
+      {
+        "id": "PICK-001-L2",
+        "order_line_id": "LINE-02",
+        "item_id": "ITM-007",
+        "requested_quantity": 5,
+        "picked_quantity": 5,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "PICK-002",
+    "sales_order_id": "SO-1004",
+    "warehouse_id": "WH-001",
+    "assigned_employee_id": "EMP-003",
+    "status": "pending",
+    "lines": [
+      {
+        "id": "PICK-002-L1",
+        "order_line_id": "LINE-01",
+        "item_id": "ITM-005",
+        "requested_quantity": 2,
+        "picked_quantity": 0,
+        "status": "pending"
+      },
+      {
+        "id": "PICK-002-L2",
+        "order_line_id": "LINE-02",
+        "item_id": "ITM-006",
+        "requested_quantity": 4,
+        "picked_quantity": 0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "id": "PICK-003",
+    "sales_order_id": "SO-1005",
+    "warehouse_id": "WH-001",
+    "assigned_employee_id": "EMP-004",
+    "status": "completed",
+    "lines": [
+      {
+        "id": "PICK-003-L1",
+        "order_line_id": "LINE-01",
+        "item_id": "ITM-001",
+        "requested_quantity": 6,
+        "picked_quantity": 6,
+        "status": "completed"
+      },
+      {
+        "id": "PICK-003-L2",
+        "order_line_id": "LINE-02",
+        "item_id": "ITM-004",
+        "requested_quantity": 10,
+        "picked_quantity": 10,
+        "status": "completed"
+      }
+    ]
+  },
+  {
+    "id": "PICK-004",
+    "sales_order_id": "SO-1008",
+    "warehouse_id": "WH-001",
+    "assigned_employee_id": "EMP-002",
+    "status": "blocked",
+    "lines": [
+      {
+        "id": "PICK-004-L1",
+        "order_line_id": "LINE-01",
+        "item_id": "ITM-015",
+        "requested_quantity": 6,
+        "picked_quantity": 0,
+        "status": "not_found"
+      }
+    ]
+  },
+  {
+    "id": "PICK-005",
+    "sales_order_id": "SO-1009",
+    "warehouse_id": "WH-001",
+    "assigned_employee_id": "EMP-003",
+    "status": "completed",
+    "lines": [
+      {
+        "id": "PICK-005-L1",
+        "order_line_id": "LINE-01",
+        "item_id": "ITM-002",
+        "requested_quantity": 10,
+        "picked_quantity": 10,
+        "status": "completed"
+      },
+      {
+        "id": "PICK-005-L2",
+        "order_line_id": "LINE-02",
+        "item_id": "ITM-009",
+        "requested_quantity": 8,
+        "picked_quantity": 8,
+        "status": "completed"
+      }
+    ]
+  }
+]

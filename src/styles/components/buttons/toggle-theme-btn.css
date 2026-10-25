@@ -1,0 +1,25 @@
+.toggle-theme-container {
+  padding: 0.2em;
+
+  background-color: var(--toggle-btn);
+  border-radius: 1em;
+
+  width: 6em;
+  cursor: pointer;
+}
+.toggle-thumb {
+  display: flex;
+  align-items: center;
+
+  background-color: var(--toggle-thumb);
+  border-radius: 2em;
+  padding: 0.2em;
+  width: fit-content;
+  transition: 0.3s ease;
+}
+.toggle-thumb.light {
+  transform: translateX(190%);
+}
+.toggle-thumb.dark {
+  transform: translateX(0%);
+}

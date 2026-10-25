@@ -1,0 +1,70 @@
+.catalog-page {
+  display: flex;
+  margin: 0;
+  height: 100%;
+  padding: 2em;
+  overflow: hidden;
+}
+
+.table-container {
+  min-height: 0;
+  min-width: 0;
+  flex: 1;
+  max-height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0;
+  border-radius: 1.5em;
+}
+.table-container::-webkit-scrollbar {
+  width: 12px;
+  height: 8px;
+}
+.table-container::-webkit-scrollbar-track {
+  background: transparent;
+}
+.table-container::-webkit-scrollbar-thumb {
+  background: var(--sidebar-header-hoverbg);
+  cursor: grab;
+  border-radius: 10px;
+}
+.table-container::-webkit-scrollbar-thumb:active {
+  cursor: grabbing;
+}
+.table {
+  padding: 1em;
+  width: 100%;
+  min-width: 300px;
+  border-collapse: collapse;
+  background-color: transparent;
+  border-radius: 1.5em;
+}
+.table thead {
+  border-bottom: 1px solid;
+  background-color: var(--btn-bg);
+
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.table thead th {
+  margin: 0;
+  padding: 0.8em;
+  align-items: start;
+}
+
+.table tbody td {
+  margin: 0;
+  padding: 0.8em;
+  text-align: center;
+  z-index: 0;
+}
+.table tbody tr {
+  background-color: rgb(22, 20, 20);
+}
+.table tbody tr:hover {
+  background-color: rgb(105, 102, 102);
+  transition: 0.3s ease;
+  cursor: pointer;
+}

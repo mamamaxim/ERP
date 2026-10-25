@@ -1,0 +1,122 @@
+[
+  {
+    "id": "BIN-001",
+    "warehouse_id": "WH-001",
+    "code": "A-01-01-01",
+    "hall": "A",
+    "aisle": 1,
+    "section": 1,
+    "level": 1,
+    "active": true
+  },
+  {
+    "id": "BIN-002",
+    "warehouse_id": "WH-001",
+    "code": "A-01-01-02",
+    "hall": "A",
+    "aisle": 1,
+    "section": 1,
+    "level": 2,
+    "active": true
+  },
+  {
+    "id": "BIN-003",
+    "warehouse_id": "WH-001",
+    "code": "A-01-02-01",
+    "hall": "A",
+    "aisle": 1,
+    "section": 2,
+    "level": 1,
+    "active": true
+  },
+  {
+    "id": "BIN-004",
+    "warehouse_id": "WH-001",
+    "code": "A-01-02-02",
+    "hall": "A",
+    "aisle": 1,
+    "section": 2,
+    "level": 2,
+    "active": true
+  },
+  {
+    "id": "BIN-005",
+    "warehouse_id": "WH-001",
+    "code": "A-01-03-01",
+    "hall": "A",
+    "aisle": 1,
+    "section": 3,
+    "level": 1,
+    "active": true
+  },
+  {
+    "id": "BIN-006",
+    "warehouse_id": "WH-001",
+    "code": "A-01-03-02",
+    "hall": "A",
+    "aisle": 1,
+    "section": 3,
+    "level": 2,
+    "active": true
+  },
+  {
+    "id": "BIN-007",
+    "warehouse_id": "WH-001",
+    "code": "A-02-01-01",
+    "hall": "A",
+    "aisle": 2,
+    "section": 1,
+    "level": 1,
+    "active": true
+  },
+  {
+    "id": "BIN-008",
+    "warehouse_id": "WH-001",
+    "code": "A-02-01-02",
+    "hall": "A",
+    "aisle": 2,
+    "section": 1,
+    "level": 2,
+    "active": true
+  },
+  {
+    "id": "BIN-009",
+    "warehouse_id": "WH-001",
+    "code": "A-02-02-01",
+    "hall": "A",
+    "aisle": 2,
+    "section": 2,
+    "level": 1,
+    "active": true
+  },
+  {
+    "id": "BIN-010",
+    "warehouse_id": "WH-001",
+    "code": "A-02-02-02",
+    "hall": "A",
+    "aisle": 2,
+    "section": 2,
+    "level": 2,
+    "active": true
+  },
+  {
+    "id": "BIN-011",
+    "warehouse_id": "WH-001",
+    "code": "A-02-03-01",
+    "hall": "A",
+    "aisle": 2,
+    "section": 3,
+    "level": 1,
+    "active": true
+  },
+  {
+    "id": "BIN-012",
+    "warehouse_id": "WH-001",
+    "code": "A-02-03-02",
+    "hall": "A",
+    "aisle": 2,
+    "section": 3,
+    "level": 2,
+    "active": true
+  }
+]

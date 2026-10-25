@@ -1,0 +1,14 @@
+[
+  {
+    "id": "AGT-001",
+    "employee_id": "EMP-007",
+    "region": "חיפה והקריות",
+    "active": true
+  },
+  {
+    "id": "AGT-002",
+    "employee_id": "EMP-008",
+    "region": "גליל והעמקים",
+    "active": true
+  }
+]

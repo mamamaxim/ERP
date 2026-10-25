@@ -1,0 +1,162 @@
+[
+  {
+    "id": "STK-001",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-001",
+    "item_id": "ITM-001",
+    "lot_number": "L-001",
+    "expiry_date": "2027-02-01",
+    "quantity": 35,
+    "reserved_quantity": 6
+  },
+  {
+    "id": "STK-002",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-007",
+    "item_id": "ITM-001",
+    "lot_number": "L-002",
+    "expiry_date": "2027-05-01",
+    "quantity": 20,
+    "reserved_quantity": 0
+  },
+  {
+    "id": "STK-003",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-002",
+    "item_id": "ITM-002",
+    "lot_number": "L-003",
+    "expiry_date": "2027-01-20",
+    "quantity": 60,
+    "reserved_quantity": 12
+  },
+  {
+    "id": "STK-004",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-003",
+    "item_id": "ITM-003",
+    "lot_number": "L-004",
+    "expiry_date": "2027-06-01",
+    "quantity": 18,
+    "reserved_quantity": 4
+  },
+  {
+    "id": "STK-005",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-004",
+    "item_id": "ITM-004",
+    "lot_number": "L-005",
+    "expiry_date": "2027-03-15",
+    "quantity": 72,
+    "reserved_quantity": 24
+  },
+  {
+    "id": "STK-006",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-009",
+    "item_id": "ITM-004",
+    "lot_number": "L-006",
+    "expiry_date": "2027-08-15",
+    "quantity": 30,
+    "reserved_quantity": 0
+  },
+  {
+    "id": "STK-007",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-005",
+    "item_id": "ITM-005",
+    "lot_number": "L-007",
+    "expiry_date": "2028-04-01",
+    "quantity": 14,
+    "reserved_quantity": 0
+  },
+  {
+    "id": "STK-008",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-006",
+    "item_id": "ITM-006",
+    "lot_number": "L-008",
+    "expiry_date": "2027-04-01",
+    "quantity": 16,
+    "reserved_quantity": 4
+  },
+  {
+    "id": "STK-009",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-007",
+    "item_id": "ITM-007",
+    "lot_number": "L-009",
+    "expiry_date": "2028-02-01",
+    "quantity": 45,
+    "reserved_quantity": 10
+  },
+  {
+    "id": "STK-010",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-008",
+    "item_id": "ITM-008",
+    "lot_number": "L-010",
+    "expiry_date": "2027-11-01",
+    "quantity": 22,
+    "reserved_quantity": 0
+  },
+  {
+    "id": "STK-011",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-009",
+    "item_id": "ITM-009",
+    "lot_number": "L-011",
+    "expiry_date": "2027-06-01",
+    "quantity": 55,
+    "reserved_quantity": 8
+  },
+  {
+    "id": "STK-012",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-010",
+    "item_id": "ITM-010",
+    "lot_number": "L-012",
+    "expiry_date": "2027-07-01",
+    "quantity": 11,
+    "reserved_quantity": 0
+  },
+  {
+    "id": "STK-013",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-011",
+    "item_id": "ITM-011",
+    "lot_number": "L-013",
+    "expiry_date": "2027-12-01",
+    "quantity": 8,
+    "reserved_quantity": 0
+  },
+  {
+    "id": "STK-014",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-012",
+    "item_id": "ITM-012",
+    "lot_number": "L-014",
+    "expiry_date": "2028-01-01",
+    "quantity": 27,
+    "reserved_quantity": 0
+  },
+  {
+    "id": "STK-015",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-003",
+    "item_id": "ITM-013",
+    "lot_number": "L-015",
+    "expiry_date": "2027-09-01",
+    "quantity": 9,
+    "reserved_quantity": 0
+  },
+  {
+    "id": "STK-016",
+    "warehouse_id": "WH-001",
+    "bin_id": "BIN-004",
+    "item_id": "ITM-014",
+    "lot_number": "L-016",
+    "expiry_date": "2027-02-15",
+    "quantity": 23,
+    "reserved_quantity": 3
+  }
+]

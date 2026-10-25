@@ -1,0 +1,9 @@
+.header-container {
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+
+  background-color: var(--sidebar-header-bg);
+  color: var(--text-color);
+  border-block-end: 0.2em solid black;
+}

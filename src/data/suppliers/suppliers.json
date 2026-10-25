@@ -1,0 +1,30 @@
+[
+  {
+    "id": "SUP-001",
+    "name": "צפון סחר מזון",
+    "city": "חיפה",
+    "email": "north-food@example.test",
+    "active": true
+  },
+  {
+    "id": "SUP-002",
+    "name": "יבואני טעמים",
+    "city": "נתניה",
+    "email": "flavors@example.test",
+    "active": true
+  },
+  {
+    "id": "SUP-003",
+    "name": "משקאות הגליל",
+    "city": "עכו",
+    "email": "galil-drinks@example.test",
+    "active": true
+  },
+  {
+    "id": "SUP-004",
+    "name": "קפה וטבע",
+    "city": "טבריה",
+    "email": "coffee-nature@example.test",
+    "active": true
+  }
+]

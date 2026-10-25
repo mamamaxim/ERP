@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CUST-001",
+    "name": "מכולת הכרמל",
+    "city": "חיפה",
+    "sales_agent_id": "AGT-001",
+    "active": true
+  },
+  {
+    "id": "CUST-002",
+    "name": "מיני מרקט הנמל",
+    "city": "חיפה",
+    "sales_agent_id": "AGT-001",
+    "active": true
+  },
+  {
+    "id": "CUST-003",
+    "name": "שוק הקריות",
+    "city": "קריית ביאליק",
+    "sales_agent_id": "AGT-001",
+    "active": true
+  },
+  {
+    "id": "CUST-004",
+    "name": "קפה המדרחוב",
+    "city": "חיפה",
+    "sales_agent_id": "AGT-001",
+    "active": true
+  },
+  {
+    "id": "CUST-005",
+    "name": "סופר הגליל",
+    "city": "נהריה",
+    "sales_agent_id": "AGT-002",
+    "active": true
+  },
+  {
+    "id": "CUST-006",
+    "name": "מכולת העמק",
+    "city": "עפולה",
+    "sales_agent_id": "AGT-002",
+    "active": true
+  },
+  {
+    "id": "CUST-007",
+    "name": "מעדניית הגבעה",
+    "city": "כרמיאל",
+    "sales_agent_id": "AGT-002",
+    "active": true
+  },
+  {
+    "id": "CUST-008",
+    "name": "קיוסק הצפון",
+    "city": "טבריה",
+    "sales_agent_id": "AGT-002",
+    "active": true
+  }
+]

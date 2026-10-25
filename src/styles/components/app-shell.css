@@ -1,0 +1,6 @@
+.app-shell {
+  grid-column: 2;
+  grid-row: 2;
+  background-color: var(--app-shell-bg);
+  color: var(--text-color);
+}

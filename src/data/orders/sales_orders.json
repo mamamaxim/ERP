@@ -1,0 +1,200 @@
+[
+  {
+    "id": "SO-1001",
+    "customer_id": "CUST-001",
+    "sales_agent_id": "AGT-001",
+    "order_date": "2026-10-15",
+    "status": "new",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-001",
+        "quantity": 5,
+        "unit_price": 8.9
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-002",
+        "quantity": 8,
+        "unit_price": 4.9
+      }
+    ]
+  },
+  {
+    "id": "SO-1002",
+    "customer_id": "CUST-002",
+    "sales_agent_id": "AGT-001",
+    "order_date": "2026-10-15",
+    "status": "confirmed",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-004",
+        "quantity": 12,
+        "unit_price": 7.9
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-009",
+        "quantity": 6,
+        "unit_price": 6.9
+      }
+    ]
+  },
+  {
+    "id": "SO-1003",
+    "customer_id": "CUST-003",
+    "sales_agent_id": "AGT-001",
+    "order_date": "2026-10-14",
+    "status": "picking",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-003",
+        "quantity": 4,
+        "unit_price": 11.9
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-007",
+        "quantity": 5,
+        "unit_price": 9.9
+      }
+    ]
+  },
+  {
+    "id": "SO-1004",
+    "customer_id": "CUST-004",
+    "sales_agent_id": "AGT-001",
+    "order_date": "2026-10-15",
+    "status": "picking",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-005",
+        "quantity": 2,
+        "unit_price": 15.9
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-006",
+        "quantity": 4,
+        "unit_price": 10.9
+      }
+    ]
+  },
+  {
+    "id": "SO-1005",
+    "customer_id": "CUST-005",
+    "sales_agent_id": "AGT-002",
+    "order_date": "2026-10-13",
+    "status": "completed",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-001",
+        "quantity": 6,
+        "unit_price": 8.9
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-004",
+        "quantity": 10,
+        "unit_price": 7.9
+      }
+    ]
+  },
+  {
+    "id": "SO-1006",
+    "customer_id": "CUST-006",
+    "sales_agent_id": "AGT-002",
+    "order_date": "2026-10-16",
+    "status": "new",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-010",
+        "quantity": 3,
+        "unit_price": 12.9
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-012",
+        "quantity": 5,
+        "unit_price": 5.9
+      }
+    ]
+  },
+  {
+    "id": "SO-1007",
+    "customer_id": "CUST-007",
+    "sales_agent_id": "AGT-002",
+    "order_date": "2026-10-16",
+    "status": "confirmed",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-011",
+        "quantity": 12,
+        "unit_price": 9.5
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-013",
+        "quantity": 4,
+        "unit_price": 19.9
+      }
+    ]
+  },
+  {
+    "id": "SO-1008",
+    "customer_id": "CUST-008",
+    "sales_agent_id": "AGT-002",
+    "order_date": "2026-10-16",
+    "status": "picking",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-015",
+        "quantity": 6,
+        "unit_price": 8.9
+      }
+    ]
+  },
+  {
+    "id": "SO-1009",
+    "customer_id": "CUST-001",
+    "sales_agent_id": "AGT-001",
+    "order_date": "2026-10-12",
+    "status": "completed",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-002",
+        "quantity": 10,
+        "unit_price": 4.9
+      },
+      {
+        "id": "LINE-02",
+        "item_id": "ITM-009",
+        "quantity": 8,
+        "unit_price": 6.9
+      }
+    ]
+  },
+  {
+    "id": "SO-1010",
+    "customer_id": "CUST-002",
+    "sales_agent_id": "AGT-001",
+    "order_date": "2026-10-11",
+    "status": "cancelled",
+    "lines": [
+      {
+        "id": "LINE-01",
+        "item_id": "ITM-014",
+        "quantity": 2,
+        "unit_price": 12.9
+      }
+    ]
+  }
+]

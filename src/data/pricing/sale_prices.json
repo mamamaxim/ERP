@@ -1,0 +1,92 @@
+[
+  {
+    "item_id": "ITM-001",
+    "price": 8.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-002",
+    "price": 4.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-003",
+    "price": 11.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-004",
+    "price": 7.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-005",
+    "price": 15.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-006",
+    "price": 10.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-007",
+    "price": 9.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-008",
+    "price": 8.5,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-009",
+    "price": 6.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-010",
+    "price": 12.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-011",
+    "price": 9.5,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-012",
+    "price": 5.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-013",
+    "price": 19.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-014",
+    "price": 12.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  },
+  {
+    "item_id": "ITM-015",
+    "price": 8.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-01"
+  }
+]

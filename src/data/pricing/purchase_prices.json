@@ -1,0 +1,128 @@
+[
+  {
+    "supplier_id": "SUP-001",
+    "item_id": "ITM-001",
+    "unit_cost": 5.1,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-001",
+    "item_id": "ITM-002",
+    "unit_cost": 2.45,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-002",
+    "item_id": "ITM-003",
+    "unit_cost": 7.4,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-003",
+    "item_id": "ITM-004",
+    "unit_cost": 4.2,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-004",
+    "item_id": "ITM-005",
+    "unit_cost": 9.2,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-004",
+    "item_id": "ITM-006",
+    "unit_cost": 6.1,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-002",
+    "item_id": "ITM-007",
+    "unit_cost": 5.8,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-002",
+    "item_id": "ITM-008",
+    "unit_cost": 4.7,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-003",
+    "item_id": "ITM-009",
+    "unit_cost": 3.5,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-001",
+    "item_id": "ITM-010",
+    "unit_cost": 7.1,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-001",
+    "item_id": "ITM-011",
+    "unit_cost": 5.0,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-001",
+    "item_id": "ITM-012",
+    "unit_cost": 2.8,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-002",
+    "item_id": "ITM-013",
+    "unit_cost": 12.5,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-001",
+    "item_id": "ITM-014",
+    "unit_cost": 7.5,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-003",
+    "item_id": "ITM-015",
+    "unit_cost": 4.8,
+    "currency": "ILS",
+    "updated_at": "2026-10-05"
+  },
+  {
+    "supplier_id": "SUP-002",
+    "item_id": "ITM-001",
+    "unit_cost": 5.55,
+    "currency": "ILS",
+    "updated_at": "2026-10-06"
+  },
+  {
+    "supplier_id": "SUP-003",
+    "item_id": "ITM-006",
+    "unit_cost": 6.45,
+    "currency": "ILS",
+    "updated_at": "2026-10-04"
+  },
+  {
+    "supplier_id": "SUP-004",
+    "item_id": "ITM-009",
+    "unit_cost": 3.9,
+    "currency": "ILS",
+    "updated_at": "2026-10-07"
+  }
+]
