@@ -1,9 +1,14 @@
 .catalog-page {
   display: flex;
+  flex-direction: column;
   margin: 0;
   height: 100%;
   padding: 2em;
   overflow: hidden;
+}
+.catalog-header-container {
+  display: flex;
+  justify-content: start;
 }
 
 .table-container {
@@ -41,8 +46,8 @@
   border-radius: 1.5em;
 }
 .table thead {
-  border-bottom: 1px solid;
-  background-color: var(--btn-bg);
+  border-bottom: 4px solid var(--catalog-td-hover);
+  background-color: var(--catalog-table);
 
   position: sticky;
   top: 0;
@@ -52,6 +57,7 @@
   margin: 0;
   padding: 0.8em;
   align-items: start;
+  color: black;
 }
 
 .table tbody td {
@@ -59,12 +65,13 @@
   padding: 0.8em;
   text-align: center;
   z-index: 0;
+  color: black;
 }
 .table tbody tr {
-  background-color: rgb(22, 20, 20);
+  background-color: var(--catalog-table);
 }
 .table tbody tr:hover {
-  background-color: rgb(105, 102, 102);
+  background-color: var(--catalog-td-hover);
   transition: 0.3s ease;
   cursor: pointer;
 }

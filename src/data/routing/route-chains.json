@@ -1,0 +1,6 @@
+[
+  {
+    "route": "/catalog/product",
+    "fatherRoute": "/catalog"
+  }
+]

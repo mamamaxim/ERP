@@ -28,14 +28,30 @@ function getCurrentRoute() {
 
   return { route, queryParam };
 }
+export function saveMissingFatherRoute(fatherRoute) {
+  localStorage.setItem("prev_route", fatherRoute);
+  
+}
 
 async function renderRoute() {
+  if (localStorage.getItem("curr_route") != window.location.hash.slice(1)) {
+    localStorage.setItem("prev_route", localStorage.getItem("curr_route"));
+    localStorage.setItem("curr_route", window.location.hash.slice(1));
+  }
   const { route, queryParam } = getCurrentRoute();
   const newPage = await getPage(route, queryParam);
   renderNewPage(newPage);
 }
 
 export async function initRouter() {
+  if (
+    !localStorage.getItem("curr_route") ||
+    localStorage.getItem("curr_route") != window.location.hash.slice(1)
+  ) {
+    localStorage.setItem("prev_route", "");
+    localStorage.setItem("curr_route", "");
+  }
+
   window.addEventListener("hashchange", renderRoute);
   await renderRoute();
 }

@@ -1,5 +1,5 @@
 export function onClickNavBack() {
-  window.location.hash = "/catalog";
+  window.location.hash = localStorage.getItem("prev_route");
 }
 
 export function createNavBackBtn() {

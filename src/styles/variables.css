@@ -29,16 +29,19 @@
   --sidebar-button-bg: #efebeb;
   --sidebar-button-border-radius: 0.5em;
 
-  --app-shell-bg: #d7e5df;
-  --app-shell-hoverbg: #879295;
+  --app-shell-bg: white;
+  --app-shell-hoverbg: #afd0fe;
 
-  --text-color: #010d09;
+  --text-color: #afd0fe;
 
-  --btn-bg: #ac9595;
-  --btn-hoverbg: #c3cdca;
-  --btn-text-color: #575d5a;
+  --btn-bg: #b5d4ff;
+  --btn-hoverbg: #9bc5ff;
+  --btn-text-color: #ffffff;
 
   --toggle-btn: #b9b3b3;
   --toggle-thumb: #ffffff;
   --toggle-icon: white;
+
+  --catalog-table: #f2f2f3;
+  --catalog-td-hover: #afd0fe;
 }

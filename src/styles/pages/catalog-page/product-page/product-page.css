@@ -19,7 +19,7 @@
   align-items: start;
   border-radius: 1em;
 
-  background-color: var(--sidebar-button-bg);
+  background-color: var(--text-color);
 
   width: 5em;
   height: 3em;
@@ -46,6 +46,9 @@
   background-color: var(--btn-bg);
   border-radius: 1em;
 }
+.product-card h1 {
+  color: var(--app-shell-bg);
+}
 .product-attributes-container {
   display: flex;
   flex-direction: row;
@@ -67,7 +70,7 @@
 
   border-radius: 1em;
 
-  background-color: var(--sidebar-button-bg);
+  background-color: var(--app-shell-bg);
 }
 .product-attribute-card * {
   margin: 0;

@@ -34,16 +34,16 @@
   justify-content: center;
   padding: 1em;
 
-  background-color: var(--sidebar-button-bg);
+  background-color: var(--btn-bg);
   border-radius: var(--sidebar-button-border-radius);
 
   text-decoration: none;
-  color: white;
+  color: var(--btn-text-color);
   transition: background-color 0.4s ease;
 }
 
 .sidebar-btn:hover {
-  background-color: black;
+  background-color: var(--btn-hoverbg);
 }
 
 .sidebar-btns-container {

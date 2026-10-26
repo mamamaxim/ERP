@@ -13,9 +13,6 @@ export async function createProductPage(barcode) {
 
   const navBackButton = createNavBackBtn();
 
-  const header = document.createElement("h1");
-  header.innerText = "Catalog";
-
   const productCard = document.createElement("div");
   productCard.className = "product-card";
 
@@ -43,7 +40,7 @@ export async function createProductPage(barcode) {
     }
   }
 
-  pageHead.append(header, navBackButton);
+  pageHead.append(navBackButton);
 
   productCard.append(productName, productAttributesContainer);
 
