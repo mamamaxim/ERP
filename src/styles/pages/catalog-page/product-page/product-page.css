@@ -19,7 +19,7 @@
   align-items: start;
   border-radius: 1em;
 
-  background-color: var(--text-color);
+  background-color: var(--toggle-btn);
 
   width: 5em;
   height: 3em;
@@ -43,11 +43,11 @@
   flex-direction: column;
   padding: 1em;
   height: 100%;
-  background-color: var(--btn-bg);
+  background-color: var(--customer-page-card);
   border-radius: 1em;
 }
 .product-card h1 {
-  color: var(--app-shell-bg);
+  color: var(--text-color);
 }
 .product-attributes-container {
   display: flex;

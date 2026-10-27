@@ -7,7 +7,7 @@
   grid-template-columns: 200px minmax(0, 1fr);
   grid-template-rows: 120px minmax(0, 1fr);
 
-  border-inline-end: 0.2em solid black;
+  border-inline-end: 0.17em solid #303136;
 
   background-color: var(--sidebar-header-bg);
   color: var(--text-color);

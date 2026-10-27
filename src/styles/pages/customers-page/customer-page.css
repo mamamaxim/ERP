@@ -1,0 +1,47 @@
+.customer-page {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5em;
+  margin: 0;
+  height: 100%;
+}
+
+.customer-card {
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  padding: 1em;
+  height: 100%;
+  background-color: var(--customer-page-card);
+  border-radius: 1em;
+}
+.customer-card h1 {
+  color: var(--text-color);
+}
+.customer-attribute-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0;
+  gap: 1em;
+  width: 70%;
+  height: minmax(100%);
+
+  align-items: start;
+}
+
+.customer-attribute-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+
+  min-width: 16em;
+
+  border-radius: 1em;
+
+  background-color: var(--app-shell-bg);
+}
+.customer-attribute-card * {
+  margin: 0;
+  padding: 0;
+}

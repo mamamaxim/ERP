@@ -46,7 +46,7 @@
   border-radius: 1.5em;
 }
 .table thead {
-  border-bottom: 4px solid var(--catalog-td-hover);
+  border-bottom: 3px solid var(--text-color);
   background-color: var(--catalog-table);
 
   position: sticky;
@@ -57,7 +57,7 @@
   margin: 0;
   padding: 0.8em;
   align-items: start;
-  color: black;
+  color: var(--text-color);
 }
 
 .table tbody td {
@@ -65,7 +65,7 @@
   padding: 0.8em;
   text-align: center;
   z-index: 0;
-  color: black;
+  color: var(--text-color);
 }
 .table tbody tr {
   background-color: var(--catalog-table);

@@ -4,44 +4,51 @@
 }
 :root,
 :root[data-theme="dark"] {
-  --sidebar-header-bg: #303633;
+  --sidebar-header-bg: #19191b;
   --sidebar-header-hoverbg: #7ea2aa;
   --sidebar-button-bg: #434544;
   --sidebar-button-border-radius: 0.5em;
 
-  --app-shell-bg: #2b322f;
+  --app-shell-bg: #222325;
   --app-shell-hoverbg: #86abb3;
 
   --text-color: #f6f9f8;
 
-  --btn-bg: #242726;
-  --btn-hoverbg: #a6e9d4;
-  --btn-text-color: #303633;
+  --btn-bg: #303136;
+  --btn-hoverbg: #3657c3;
+  --btn-text-color: #ffffff;
 
-  --toggle-btn: #1f2321;
-  --toggle-thumb: #303633;
-  --toggle-icon: rgb(62, 60, 60);
+  --toggle-btn: #303136;
+  --toggle-thumb: white;
+  --toggle-icon: white;
+
+  --catalog-table: #19191b;
+  --catalog-td-hover: #1d2e61;
+
+  --customer-page-card: #303136;
 }
 
 :root[data-theme="light"] {
-  --sidebar-header-bg: #ffffff;
+  --sidebar-header-bg: #edf2fe;
   --sidebar-header-hoverbg: #899b9f;
   --sidebar-button-bg: #efebeb;
   --sidebar-button-border-radius: 0.5em;
 
-  --app-shell-bg: white;
+  --app-shell-bg: #bdd1ff;
   --app-shell-hoverbg: #afd0fe;
 
-  --text-color: #afd0fe;
+  --text-color: #303136;
 
-  --btn-bg: #b5d4ff;
-  --btn-hoverbg: #9bc5ff;
+  --btn-bg: #303136;
+  --btn-hoverbg: #3657c3;
   --btn-text-color: #ffffff;
 
   --toggle-btn: #b9b3b3;
   --toggle-thumb: #ffffff;
   --toggle-icon: white;
 
-  --catalog-table: #f2f2f3;
-  --catalog-td-hover: #afd0fe;
+  --catalog-table: #edf2fe;
+  --catalog-td-hover: #bdd1ff;
+
+  --customer-page-card: #edf2fe;
 }
